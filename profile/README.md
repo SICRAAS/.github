@@ -5,4 +5,4 @@
 Log in with your github account to get access to Sicra AS organizational repos
 
 ## Code of Conduct
-Please adhere to our [code of conduct](https://github.com/SICRAAS/.github/blob/main/profile/README.md)
+Please adhere to our [code of conduct](https://github.com/SICRAAS/.github/blob/main/profile/CODE-OF-CONDUCT.md)
