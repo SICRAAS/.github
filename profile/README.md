@@ -4,7 +4,7 @@
 Sicra is a Norway-based cybersecurity company delivering tailored, enterprise-grade security services across the Nordics.
 Founded in 2016, we help organizations align security with business performance—enabling fearless, resilient growth in an unpredictable world.
  
-#### What We Offer
+### What We Offer
  
 **We specialize in**
 
@@ -27,7 +27,7 @@ Founded in 2016, we help organizations align security with business performance�
 We work with leading vendors to ensure our clients have access to best-in-class tools and integrations.
  
 
-#### Open Security Engineering
+### Open Security Engineering
  
 We use GitHub to share tools, frameworks, and insights from our security practice—ranging from log parsing and proof-of-concepts to SOC onboarding and compliance checklists.
  
