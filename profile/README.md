@@ -1,5 +1,4 @@
-## About Us
-**Sicra · A secure business is a good business**
+## Sicra · A secure business is a good business
  
 Sicra is a Norway-based cybersecurity company delivering tailored, enterprise-grade security services across the Nordics.
 Founded in 2016, we help organizations align security with business performance—enabling fearless, resilient growth in an unpredictable world.
